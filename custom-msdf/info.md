@@ -8,4 +8,5 @@ iwth
 ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
 ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ“”'
 “”'ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
-“”'-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
+“”'’-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
+œ“”'’-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
