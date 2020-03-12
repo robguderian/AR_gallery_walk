@@ -7,3 +7,5 @@ https://github.com/etiennepinchon/aframe-fonts
 iwth
 ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
 ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ“”'
+“”'ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
+“”'-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
