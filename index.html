@@ -79,12 +79,15 @@
 
     <a-marker type='barcode' value='1'>
       <a-image height=1.4 width=1.4 position='0 4.3 1' rotation="-90 0 0" src="#BrigitteDion" />
-      <a-plane position='0 0 -1.0' material='color: white; opacity: 0.6' scale="2.4 2.4 2.4" height=1.4 width=2.5>
-
-        <a-entity position="0 0 0.1" rotation="0 0 0"
-          text="width: 2; lineHeight: 50; letterSpacing: 5; color: black; value: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefhijklmnopqrstuvwxyz012345678;"> 
-        </a-entity>
-      </a-plane>
+	<a-text value="ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ"
+	scale="2.4 2.4 2.4" 
+        color="black"
+	font="custom-msdf.json"
+	position='0 0 -1.0'
+	rotation="0 0 0"
+	negate="false"
+        >
+        </a-text>
     </a-marker>
 
 
