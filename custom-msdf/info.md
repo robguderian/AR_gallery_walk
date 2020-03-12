@@ -6,3 +6,4 @@ Also tried to get from here
 https://github.com/etiennepinchon/aframe-fonts
 iwth
 ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
+ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛûÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ“”'
