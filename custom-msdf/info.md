@@ -11,3 +11,5 @@ iwth
 “”'’-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
 œ“”'’-;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ
 œ“”'’-:;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ!
+œ“”'’-:;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ!1234567890
+œ“”'’-:;?.,ÀàÂâÉéÈèÊêËëÎîÏïÔôÙùÛû ÜüŸÿÇçabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQURSTUVWXYZ!1234567890/
